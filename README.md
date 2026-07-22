@@ -41,7 +41,7 @@ Chaque catégorie suit la progression officielle de l'academy (du plus simple au
 
 ## 🛠️ Stack / outils utilisés
 
-- Burp Suite (Community/Pro)
+- Burp Suite Community
 - Navigateur + DevTools
 - Notes manuscrites de méthodologie SQLi/XSS/etc.
 
