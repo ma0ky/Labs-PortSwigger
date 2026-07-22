@@ -38,7 +38,6 @@ Chaque catégorie suit la progression officielle de l'academy (du plus simple au
 | XSS | 0/? | ⬜ À venir |
 | CSRF | 0/? | ⬜ À venir |
 
-*(tableau à mettre à jour au fil de l'eau)*
 
 ## 🛠️ Stack / outils utilisés
 
