@@ -1,10 +1,10 @@
 
-![](Pasted%20image%2020260722160523.png)
+![](../../Img/Pasted%20image%2020260722160523.png)
 
 On peut voir qu'il y a une page login et un filtre, on va tester le filtre voir il y a combien de columns 
-![](Pasted%20image%2020260722160528.png)
+![](../../Img/Pasted%20image%2020260722160528.png)
 '+ORDER+BY+3--
-![](Pasted%20image%2020260722160534.png)
+![](../../Img/Pasted%20image%2020260722160534.png)
 que 2 colunms
 
 
